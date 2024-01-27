@@ -1,5 +1,5 @@
 console.log("Node.js notebook");
-require("./path");
+require("./worker-threads");
 
 // const http = require("node:http");
 
