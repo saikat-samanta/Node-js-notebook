@@ -34,7 +34,7 @@ if (cluster.isPrimary) {
     cluster.fork();
   }
 
-  // # Run when worker are not used any more
+  // # Fired when worker has exited or been killed
   cluster.on("exit", (worker, code, signal) => {
     console.log(`worker ${worker.process.pid} died`);
   });
