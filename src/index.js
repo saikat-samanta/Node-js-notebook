@@ -1,5 +1,5 @@
 console.log("Node.js notebook");
-require("./stream");
+require("./os");
 
 // const http = require("node:http");
 
