@@ -1,5 +1,5 @@
 console.log("Node.js notebook");
-require("./os");
+require("./crypto");
 
 // const http = require("node:http");
 
