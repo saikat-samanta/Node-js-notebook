@@ -281,4 +281,4 @@ fs.rename(dirPath, renamedPath, (err) => {
 
 ## These are the common methods we used from `fs` module along with `streaming` methods.
 
-## Refer to the [`Streaming`]('../../stream') module for more details
+## Refer to the [`Streaming`]('file://../../stream') module for more details
