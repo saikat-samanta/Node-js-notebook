@@ -1,6 +1,11 @@
 # Node-js-notebook
 
+![node.js](https://img.shields.io/badge/Build%20With%20Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![prettier](https://img.shields.io/badge/Formatted%20With%20prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
 Notebook for Node.Js
+
+<img src='https://nodejs.org/static/images/logo.svg' style='width:40vw; background-color:#0d1116;'/>
 
 ## Contents
 
