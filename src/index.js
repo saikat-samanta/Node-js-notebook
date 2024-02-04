@@ -1,5 +1,5 @@
 console.log("Node.js notebook");
-require("./crypto");
+require("./zlib");
 
 // const http = require("node:http");
 

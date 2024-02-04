@@ -21,12 +21,14 @@
   - [cluster](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/cluster)
   - [worker-threads](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/worker-threads)
   - [operating system](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/os)
+  - [crypto](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/crypto)
+  - [buffer](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/buffer)
 
-#### Installing Node.js
+## Installing Node.js
 
 - Visit the [Node.js official website](https://nodejs.org/) to download and install Node.js on your machine.
 
-#### Creating Your First Node.js File
+## Creating Your First Node.js File
 
 - Open a text editor and create a file named `app.js`.
 - Add the following code to print "Hello, Node.js!" to the console:
@@ -35,7 +37,7 @@
   console.log("Hello, Node.js!");
   ```
 
-#### Running Your Node.js File
+## Running Your Node.js File
 
 - Open a terminal and navigate to the directory containing `app.js`.
 - Run the following command to execute your Node.js script:
@@ -46,7 +48,7 @@
 
 - You should see the output: "Hello, Node.js!".
 
-#### Node Package Manager (npm)
+## Node Package Manager (npm)
 
 - npm is the package manager for Node.js. It allows you to install and manage packages (libraries) for your Node.js projects.
 - Check the installed npm version:
