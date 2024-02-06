@@ -23,6 +23,7 @@
   - [operating system](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/os)
   - [crypto](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/crypto)
   - [buffer](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/buffer)
+  - [zlib](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/zlib)
 
 ## Installing Node.js
 

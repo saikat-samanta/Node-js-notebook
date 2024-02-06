@@ -1,5 +1,5 @@
 console.log("Node.js notebook");
-require("./zlib");
+require(".");
 
 // const http = require("node:http");
 
