@@ -1,5 +1,5 @@
 console.log("Node.js notebook");
-require(".");
+require("./advanced");
 
 // const http = require("node:http");
 
