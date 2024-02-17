@@ -25,6 +25,10 @@
   - [buffer](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/buffer)
   - [zlib](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/modules/zlib)
 
+- Advanced
+  - [Build video streaming api](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/advanced/streaming-api)
+  - [Register and login with password encryption](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/advanced/password-encryption)
+
 ## Installing Node.js
 
 - Visit the [Node.js official website](https://nodejs.org/) to download and install Node.js on your machine.
