@@ -5,14 +5,16 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./src",
-    "docs": "jsdoc -d ./docs ./src/**/*.js"
+    "start": "nodemon --trace-gc ./src",
+    "generate-sidenav": "node ./scripts/side-nav",
+    "copy-readme": "node ./scripts/copy-content && yarn generate-sidenav",
+    "docs": "docsify init ./docs && yarn copy-readme"
   },
   "author": "saikat-samanta",
   "license": "MIT",
   "dependencies": {
     "prettier": "^3.2.4",
-    "jsdoc": "^4.0.2",
+    "docsify-cli": "^4.4.4",
     "nodemon": "^3.0.3",
     "express": "^4.18.2",
     "cors": "^2.8.5",
