@@ -25,12 +25,12 @@ fs.readdir(path.join(__root, "docs"), { recursive: true }, (err, files) => {
       const baseName = path.basename(file, ".md");
 
       if (!contentHeader.includes(dirs[dirs.length - 1])) {
-        fileContent += `- [${dirs[dirs.length - 1].toUpperCase()}](/${file})\n`;
+        fileContent += `- [${dirs[dirs.length - 1].toUpperCase()}](./${file})\n`;
         contentHeader.push(dirs[dirs.length - 1]);
       }
 
       if (baseName !== "README") {
-        fileContent += `  - [${baseName}](/${file})\n`;
+        fileContent += `  - [${baseName}](./${file})\n`;
       }
 
       console.log(file, baseName);
