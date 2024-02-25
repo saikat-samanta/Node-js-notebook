@@ -1,5 +1,9 @@
 <!-- docs/_sidebar.md -->
 - [HOME](/README.md)
+- [ADVANCED](/advanced/db-sharding.md)
+  - [db-sharding](/advanced/db-sharding.md)
+  - [password-encryption](/advanced/password-encryption.md)
+  - [streaming-api](/advanced/streaming-api.md)
 - [MODULES](/modules/buffer.md)
   - [buffer](/modules/buffer.md)
   - [child-processes](/modules/child-processes.md)
