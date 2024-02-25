@@ -28,6 +28,7 @@
 - Advanced
   - [Build video streaming api](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/advanced/streaming-api)
   - [Register and login with password encryption](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/advanced/password-encryption)
+  - [DB sharding](https://github.com/saikat-samanta/Node-js-notebook/tree/main/src/advanced/db-sharding)
 
 ## Installing Node.js
 
