@@ -2,6 +2,7 @@
 - [HOME](/README.md)
 - [ADVANCED](/advanced/db-sharding.md)
   - [db-sharding](/advanced/db-sharding.md)
+  - [long-and-short-polling](/advanced/long-and-short-polling.md)
   - [password-encryption](/advanced/password-encryption.md)
   - [streaming-api](/advanced/streaming-api.md)
 - [MODULES](/modules/buffer.md)
